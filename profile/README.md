@@ -98,3 +98,6 @@ LPI Webinar 2024-06-05
     - [最近のもの (SpeakerDeck)](https://speakerdeck.com/fmlorg)
     - [昔のもの　 (ftp://ftp.fml.org/pub/doc/)](ftp://ftp.fml.org/pub/doc/)
 - https://researchmap.jp/fukamachi-fmlorg
+
+
+![](qr.png)
