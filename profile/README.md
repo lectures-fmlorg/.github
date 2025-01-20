@@ -12,6 +12,11 @@
 ## 情報システム開発基礎演習 インフラ編 (#01-#06)
 
 - [インフラ編のスライド(第01-06回 合併版)](https://2024.lectures.fml.org/skill-intro/情報システム開発基礎演習（2024）_インフラ編.pdf)
+- 個別のテーマを抜き出した資料
+    - [WWWの基礎](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_WWW.pdf)
+    - [HTMLの基礎](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_HTML.pdf)
+    - [EC2の作成](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_EC2.pdf)
+    - [EIP(Elastic IP)を付ける](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_EIP.pdf)
 
 
 ## コンピュータネットワーク
@@ -36,7 +41,13 @@
 - [スライド 第01-08回 合併版](https://2024.lectures.fml.org/skill-cloud/SKILL-CLOUD_01-08.pdf) ... Unixタイムシェアリングシステムの基礎概念(1)権限(2)階層
     - [動画(Youtube再生リスト)](https://www.youtube.com/playlist?list=PLS2cEmI21XYLeOvQ4eGTLbYWrbBpyZIjt)
 - [スライド 第10-12回 合併版](https://2024.lectures.fml.org/skill-cloud/SKILL-CLOUD_10-12.pdf) ... クラウドサービスの基礎
-
+- 補足資料
+    - [WWWの基礎](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_WWW.pdf)
+    - [HTMLの基礎](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_HTML.pdf)
+    - [EC2の作成](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_EC2.pdf)
+    - [EIP(Elastic IP)を付ける](https://2024.lectures.fml.org/skill-intro/SKILL-INTRO_EIP.pdf)
+    - [ELBの設定](https://2024.lectures.fml.org/skill-cloud/SKILL-CLOUD-AUX_AWS-ELB.pdf)
+    - [www.pyを改造してキャッシュ(Redis)に値を保存する](https://2024.lectures.fml.org/skill-cloud/SKILL-CLOUD-AUX_Redis.pdf)
 
 
 ## 参考資料
