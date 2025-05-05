@@ -1,7 +1,7 @@
 # lecture documents / 授業(群)のテキストなど
 
-- We distribute documents e.g. Text, Worksheets and et.al. here. [2024 spring and fall edition]
-- 授業(群)のテキストなどを配布するサイトです [2024年度版]
+- We distribute documents e.g. Text, Worksheets and et.al. here. [2024 spring and fall edition, to be switched to 2025 version at any time]
+- 授業(群)のテキストなどを配布するサイトです [2024年度版, 随時2025年度版へ切り替え...]
      - 基本的に情報システム工学科3年生むけのコンテンツです
      - [C言語 - プログラミングの基礎は、すべてジャンケンとモグラ叩きが教えてくれた C言語編 -](https://2024.lectures.fml.org/clang/)だけは2年生向けです(なぜ「C言語編」というタイトルなのか?というと、
      [C言語](https://2024.lectures.fml.org/clang/)、
